@@ -1,0 +1,16 @@
+[28-Feb-2019 18:10:32 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 217
+[28-Feb-2019 18:10:35 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 217
+[28-Feb-2019 18:10:37 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 217
+[28-Feb-2019 18:10:39 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 217
+[28-Feb-2019 18:11:19 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 217
+[28-Feb-2019 18:12:19 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 217
+[28-Feb-2019 18:15:56 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 218
+[28-Feb-2019 18:17:14 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 218
+[28-Feb-2019 18:17:17 UTC] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 218
+[01-Mar-2019 15:09:14 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 214
+[01-Mar-2019 15:10:20 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 214
+[01-Mar-2019 15:12:11 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 214
+[01-Mar-2019 15:15:28 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 214
+[01-Mar-2019 15:15:34 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 214
+[01-Mar-2019 15:16:28 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 214
+[01-Mar-2019 15:18:42 UTC] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING), expecting ',' or ';' in /home/altspink/public_html/admin/news.php on line 214

@@ -1,0 +1,6 @@
+[24-May-2020 04:46:36 UTC] PHP Notice:  Undefined variable: my_site_name in /home/antiboot3/public_html/include/header.php on line 2
+[24-May-2020 04:46:36 UTC] PHP Warning:  require_once(include/menu.php): failed to open stream: No such file or directory in /home/antiboot3/public_html/include/header.php on line 7
+[24-May-2020 04:46:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/menu.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/antiboot3/public_html/include/header.php on line 7
+[24-May-2020 04:46:41 UTC] PHP Notice:  Undefined variable: my_site_name in /home/antiboot3/public_html/include/header.php on line 2
+[24-May-2020 04:46:41 UTC] PHP Warning:  require_once(include/menu.php): failed to open stream: No such file or directory in /home/antiboot3/public_html/include/header.php on line 7
+[24-May-2020 04:46:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/menu.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/antiboot3/public_html/include/header.php on line 7

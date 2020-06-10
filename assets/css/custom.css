@@ -1,0 +1,295 @@
+/**
+ *
+ * Apply your custom CSS here
+ *
+*/
+
+body {	
+}
+
+a {
+
+}
+
+@media screen and (max-width: 767px) {
+.pricing-table {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+/*--------------------------------
+        PRICING TABLE
+---------------------------------*/
+
+.price-head {
+    padding: 10px 0 50px;
+}
+
+.price-head h1 {
+    font-size: 32px;
+    font-weight: normal;
+    color: #49586e;
+}
+
+.pricing-table {
+    background: #fff;
+    text-align: center;
+    padding: 0 0 25px 0;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    box-shadow: 0 5px 0 #e5e5e5;
+    width: 110%;
+    margin-left: -10px;
+}
+
+.pricing-table.most-popular {
+    position: relative;
+}
+
+.most-popular {
+    background: #6bc5a4;
+    color: #fff;
+    box-shadow: 0 5px 0 #60b193;
+}
+
+.most-popular .pricing-head {
+    position: relative;
+    height: 170px;
+
+}
+
+.most-popular .pricing-head h1 {
+    color: #fff;
+}
+
+.most-popular .pricing-quote, .most-popular ul li i {
+    color: #6bc5a4;
+}
+
+.most-popular ul li {
+}
+
+.most-popular .price-actions .btn {
+    background: #60b193 !important;
+    cursor: pointer;
+    color: #fff !important;
+}
+
+.most-popular .pricing-quote {
+    background: #fff;
+}
+
+.pricing-table .price-actions .btn {
+	margin: 5px 0 10px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    background: #eff0f4;
+    color: #a4a4a4;
+    border: none;
+    box-shadow: none;
+    text-shadow: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.pricing-table .price-actions .btn:hover, .most-popular.pricing-table .price-actions .btn:hover {
+    background: #49586e !important;
+    color: #fff;
+}
+
+.pricing-head {
+    position: relative;
+    height: 170px;
+    color: #2a323f;
+}
+
+.pricing-head h1 {
+    font-size: 24px;
+    font-weight: 300;
+    padding-top: 30px;
+    color: #2a323f;
+    text-transform: uppercase;
+}
+
+.pricing-quote {
+    background: #eff0f4;
+    padding: 35px 0;
+    color: #49586e;
+    font-size: 45px;
+    font-weight: bold;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    margin: -90px auto;
+    position: relative;
+}
+
+.pricing-table ul {
+    margin: 100px 0 50px;
+    padding: 0;
+}
+
+.pricing-table ul li {
+    margin: 0 2em;
+    padding: 0.5em 0;
+    text-align: center;
+    font-weight: 300;
+}
+
+.pricing-quote span.note {
+    display: inline;
+    font-size: 18px;
+    line-height: 0.8em;
+    position: relative;
+    top: -18px;
+}
+
+.pricing-quote p {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #a4a4a4;
+    padding-top: 10px;
+    font-weight: normal;
+}
+
+.pricing-quotation, .team-info {
+    background: #EEEEEE;
+    padding: 20px 20px 35px 20px;
+    margin-bottom: 100px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.pricing-quotation h3, .team-info h3 {
+    font-weight: 300;
+}
+
+.pricing-quotation p, .team-info p {
+    margin-bottom: 0px;
+}
+
+.pricing-plan, .team-info-wrap {
+    position: relative;
+}
+
+/* Added by IMARJUN */
+.sidebar-menu {
+    width: 270px;
+    background: #262728;
+}
+body {
+    background-color: #393a3d;
+}
+.page-container .main-content {
+    padding: 0px 30px;
+}
+.user-info-navbar {
+    background-color: #262728;
+    color:#fff;
+}
+.user-info-navbar .user-info-menu>li>a {
+    border: none;
+}
+.user-info-navbar .user-info-menu>li {
+    border: none;
+}
+.sidebar-menu .logo-env {
+    padding: 28px 45px;
+}
+nav.navbar {
+    padding-top: 10px;
+}
+.xe-widget.xe-counter, .xe-widget.xe-counter-block .xe-upper, .xe-widget.xe-progress-counter .xe-upper {
+    background: #262728;
+    color:#fff;
+}
+.xe-widget.xe-counter .xe-label .num, .xe-widget.xe-counter-block .xe-upper .xe-label .num, .xe-widget.xe-progress-counter .xe-upper .xe-label .num {
+    color: #fff;
+}
+.panel-info {
+    background: #262728;
+    color:#fff;
+    
+}
+.panel.panel-color.panel-info {
+    
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+}
+.panel.panel-color .panel-heading {
+    background-color:#424347;
+    color: #fff;
+}
+.login-header {
+    text-align: center !important;    
+}
+button.col-sm-8.btn.btn-success {
+    
+        background-color: #262728;
+    
+}
+button.btn.btn-info.btn-xs {
+    
+        background-color: #262728;
+    
+}
+/*textarea.form-control{
+    
+        background-color: #fff;
+    
+}*/
+
+label.col-md-2.col-sm-2.control-label {
+    color: #96968d;
+}
+legend {
+    color: #96968d;
+}
+button.btn.btn-info {
+    background-color: #262728;
+}
+
+.index-font1{
+    color: white;
+    font-size: 16px;
+    background:#55a95b;
+    border: none;
+}
+.index-font2{
+    color: white;
+    font-size: 16px;
+    background:#ffbb01;
+    border: none;
+}
+.index-font3{
+    color: white;
+    font-size: 16px;
+    background:#e45f4e;
+    border: none;
+}
+.index-font4{
+    color: white;
+    font-size: 16px;
+    background:#16afd8;
+    border: none;
+}
+.index-number{
+    color: white;
+    font-size: 50px;
+}
+
+div.card-text{
+    margin-top: 20px;
+    margin-left: 1px;
+}
+
+i.index-icon{
+    font-size: 55px;
+}
